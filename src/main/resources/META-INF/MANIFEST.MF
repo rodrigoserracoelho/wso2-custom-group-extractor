@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: wso2-custom-group-extractor_1.0
+Export-Package: eu.europa.ec.digit.apigw.group.extractor
+Bundle-Name: wso2-custom-group-extractor_1.0
+Bundle-Version: 1.0
+Bundle-ClassPath: .,wso2-custom-group-extractor-1.0.0.jar
+Bundle-ManifestVersion: 2
+DynamicImport-Package: *
+
